@@ -1,0 +1,4 @@
+3_a. Write a prog in java to read a no. from user and display sum of digits at even and odd place seperately.
+3_b. Write a prog in java to take numbers from users in a series and display whether the series is in increasing or not. The input must be terminated by -1. 
+
+Practice- To read marks of the student and display the average, input must be terminated by -1;
