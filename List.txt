@@ -2,3 +2,5 @@
 3_b. Write a prog in java to take numbers from users in a series and display whether the series is in increasing or not. The input must be terminated by -1. 
 
 Practice- To read marks of the student and display the average, input must be terminated by -1;
+
+4_a. 
